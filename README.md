@@ -1,3 +1,6 @@
+This website built using (PHP & Javascript) which
+allows the admin(HOD) to send private or public
+notices to registered students.
 
 # eNoticeWebApp
 ### Demo 
